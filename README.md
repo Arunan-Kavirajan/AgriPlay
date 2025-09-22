@@ -1,6 +1,6 @@
 # AgriPlay — Gamified Sustainable Farming
 
-**Short description:** AgriPlay is a gamified system designed to promote sustainable farming practices by engaging users with quests, points, levels, and social features. This README section summarizes the implemented features (excluding the unimplemented weather API and AI chatbot) and where to find them in the codebase.
+**Short description:** AgriPlay is a gamified system designed to promote sustainable farming practices by engaging users with quests, points, levels, and social features. This README section summarizes the implemented features and where to find them in the codebase.
 
 ## Implemented features
 
@@ -297,13 +297,3 @@
 npm install
 npm run dev
 ```
-
-## Notes
-
-- The automated scan looked for common keywords and file locations. It may miss features that are implemented under less-obvious names or in binary files.
-- The README intentionally excludes the **weather API** and the **AI chatbot** because they are not implemented.
-
-If you'd like, I can:
-- expand any feature entry into a longer description with example screenshots (if present),
-- produce a TOC,
-- or convert this into a full `README.md` and save it inside the repository for you.
